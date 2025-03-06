@@ -1,4 +1,5 @@
 # 📊 Sales Dashboard Project
+[dashboard.PNG](https://github.com/winnier-ops/sales-dashboard/blob/main/dashboard.PNG)
 
 ## 📌 Overview
 This project is an **AI-powered sales dashboard** designed to provide interactive data visualizations for better business insights. The dashboard allows users to upload their sales data and generate key performance metrics, helping decision-makers analyze trends, performance, and profitability.
